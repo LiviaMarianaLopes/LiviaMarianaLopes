@@ -1,15 +1,17 @@
 ### Hi there 👩‍💻👋
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviamarianalopes/)](https://www.linkedin.com/in/liviamarianalopes/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/LiviaMarianaLopes/)](https://github.com/LiviaMarianaLopes/) 
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/liviamarianalopes/)](https://www.linkedin.com/in/liviamarianalopes/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/LiviaMarianaLopes/)](https://github.com/LiviaMarianaLopes/)  [![Email Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://github.com/LiviaMarianaLopes/)](https://github.com/LiviaMarianaLopes/) 
 
 
 Hello, my name is Lívia Lopes! I enjoy continuous learning and problem solving. Therefore, from my perspective, technology is a means to achieve these goals. For this reason I decided to pursue Systems Analysis and Development. Therefore, I have dedicated myself to learning new technologies and delving deeper into programming languages.
-### Languages
+### Technologies
 
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Node](https://img.shields.io/badge/-NodeJs-000?&logo=nodedotjs)
+![Next](https://img.shields.io/badge/-NextJs-000?&logo=nextdotjs)
 
 As for my GitHub repositories, there is some statistics about the languages I've used:
 
