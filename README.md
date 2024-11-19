@@ -12,10 +12,9 @@ Hello, my name is Lívia Lopes! I enjoy continuous learning and problem solving.
 ### My Stack
 <img width=5% src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,react,nextjs,py,mysql,postman,npm,git,github,vscode,figma,arduino,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,kotlin,ts,react,nextjs,html,css,js,mysql,docker,postman,azure,npm,git,github,vscode,figma,arduino,&perline=14" />
 </div>
 <hr/>
-As for my GitHub repositories, there is some statistics about the languages I've used:
 <p></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiviaMarianaLopes&show_icons=true&theme=nightowl)](https://github.com/LiviaMarianaLopes/github-readme-stats)
