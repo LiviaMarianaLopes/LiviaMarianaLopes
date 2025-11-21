@@ -14,13 +14,10 @@ I'm a developer who is passionate about continuous learning and using technology
 
 ### My Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,angular,vite,nextjs,py,mysql,docker,postman,azure,npm,git,github,vscode,figma,arduino,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,angular,vite,nextjs,py,mysql,postgresql,docker,postman,azure,npm,git,github,vscode,figma,arduino,&perline=14" />
 </div>
 <hr/>
 <p></p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiviaMarianaLopes&show_icons=true&theme=nightowl)](https://github.com/LiviaMarianaLopes/github-readme-stats)
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaMarianaLopes&layout=compact&theme=nightowl"/>
 
 <img width=100% src="https://i.pinimg.com/originals/d2/e1/da/d2e1da70c72592443bd9c3728f35b47e.gif"/>
 </div>
